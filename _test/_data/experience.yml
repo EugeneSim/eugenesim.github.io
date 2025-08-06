@@ -1,12 +1,13 @@
 - layout: right
-  company: Company 1
-  link: https://google.com
-  job_title: Job title 1
-  dates: November 2016 - present
+  company: United Overseas Bank (UOB)
+  link: https://www.uob.com.sg/personal/index.page
+  job_title: Senior Officer
+  dates: July 23 - Present
   quote: >
-   Short description of the company (optional)
+   United Overseas Bank Limited 大华银行有限公司
   description: >
-    Description of role
+    Technology Development Programme 2023 - Software Development Track
+    Project 1 : AML/AFC Big Data Project
 
 - layout: top
   company: Company 2
